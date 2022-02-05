@@ -1,2 +1,2 @@
 # TheLaundry
-TheLaundry This is Application using java
+TheLaundry adalah aplikasi pengolahan data , manajemen sistem , dan perhitungan transakasi untuk usaha jasa laundry
